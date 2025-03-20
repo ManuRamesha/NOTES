@@ -5,7 +5,7 @@
 # Anomaly Detection for Dataset with 30 Features
 
 ## Objective
-The aim of this project is to detect anomalies in a dataset containing 30 features (`v1` to `v29`, `amount`) where the target variable `Class` indicates whether an observation is an anomaly (`1`) or not (`0`). The dataset is analyzed using both supervised and unsupervised anomaly detection models.
+The aim of this project is to detect anomalies in a dataset containing 30 features where the target variable `Class` indicates whether an observation is an anomaly (`1`) or not (`0`). The dataset is analyzed using both supervised and unsupervised anomaly detection models.
 
 ---
 
